@@ -74,8 +74,9 @@ p{
 	color: hsl(245, 75%, 52%);
 	padding-top: 10px;
 }
-.image{
-	border-radius: 15px;
+#pic{
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
 }
 #background{
 	background-color:  hsl(225, 100%, 98%);
